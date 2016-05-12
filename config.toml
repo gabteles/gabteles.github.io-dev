@@ -1,0 +1,29 @@
+baseurl = "https://gabteles.github.io/"
+builddrafts = false
+canonifyurls = true
+contentdir = "content"
+languageCode = "en-US"
+layoutdir = "layouts"
+publishdir = "public"
+author = "Gabriel Teles"
+title = "Gabriel Teles"
+#pygmentsuseclasses = true
+#disqusShortname = "cocoaexamplesite"
+pluralizelisttitles = false
+
+[permalinks]
+fixed = ":title/"
+blog = "blog/:slug/"
+
+[params]
+Author = "Gabriel Teles"
+CacheBuster = true
+DateForm = "Jan 2, 2006"
+DateFormFull = "Mon, Jan 2 2006 15:04:05 MST"
+#Description = "Don't panic"
+Email = "gab.teles@hotmail.com"
+FaviconFile = "favicon.ico"
+#GATracker = "XYZ"
+GitHub = "//github.com/gabteles"
+Lang = "en"
+LinkedIn = "//linkedin.com/in/gabrieltelesbastos"
