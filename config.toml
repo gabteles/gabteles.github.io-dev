@@ -1,4 +1,4 @@
-baseurl = "https://gabteles.github.io/"
+baseurl = "https://gabrielteles.com.br/"
 builddrafts = false
 canonifyurls = true
 contentdir = "content"
@@ -10,6 +10,7 @@ title = "Gabriel Teles"
 #pygmentsuseclasses = true
 #disqusShortname = "cocoaexamplesite"
 pluralizelisttitles = false
+theme = "cocoa"
 
 [permalinks]
 fixed = ":title/"
@@ -23,7 +24,7 @@ DateFormFull = "Mon, Jan 2 2006 15:04:05 MST"
 #Description = "Don't panic"
 Email = "gab.teles@hotmail.com"
 FaviconFile = "favicon.ico"
-#GATracker = "XYZ"
+GATracker = "UA-77712252-1"
 GitHub = "//github.com/gabteles"
 Lang = "en"
 LinkedIn = "//linkedin.com/in/gabrieltelesbastos"
