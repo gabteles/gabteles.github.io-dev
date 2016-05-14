@@ -10,7 +10,6 @@ title = "Gabriel Teles"
 #pygmentsuseclasses = true
 #disqusShortname = "cocoaexamplesite"
 pluralizelisttitles = false
-theme = "cocoa"
 
 [permalinks]
 fixed = ":title/"
