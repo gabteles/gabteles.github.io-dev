@@ -1,4 +1,4 @@
-baseurl = "https://gabrielteles.com.br/"
+baseurl = "http://gabrielteles.com.br/"
 builddrafts = false
 canonifyurls = true
 contentdir = "content"
@@ -10,6 +10,7 @@ title = "Gabriel Teles"
 #pygmentsuseclasses = true
 #disqusShortname = "cocoaexamplesite"
 pluralizelisttitles = false
+theme="cocoa"
 
 [permalinks]
 fixed = ":title/"
